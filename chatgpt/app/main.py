@@ -1,2 +1,0 @@
-# chatgpt app here
-
